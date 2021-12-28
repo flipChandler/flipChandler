@@ -1,4 +1,4 @@
-### Hi, How you doin?! My name's Felipe 👋
+### Hi, How you doin?! I'm Felipe 👋
 
 - 🌱 I’m currently learning everything about Java
 - 📫 How to reach me: felipe.santos11@hotmail.com
