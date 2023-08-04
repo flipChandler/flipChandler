@@ -1,7 +1,7 @@
 ### Hi, How you doin?! I'm Felipe 👋
 
 - 🌱 I’m currently learning everything about Java
-- 📫 How to reach me: felipe.santos11@hotmail.com
+- 📫 How to reach me: felipe.santos11@hotmail.com | felip3.santos11@gmail.com
 
 <div align="center">
   <a href="https://github.com/flipChandler">
